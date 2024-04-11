@@ -29,3 +29,10 @@ Fardowsa Abdullah
 
 Acknowledgments
 Thanks to the creators of the Quotable API for providing the quotes.
+
+# CONTRIBUTIONS
+Contributions are welcome! Please open an issue or submit a pull request if you would like to contribute to this project.
+# Reach me on email: fardosaabdullahi991@gmail.com
+
+Overall, the Random Quote Generator aims to provide users with a fun and inspirational experience, encouraging them to discover and share meaningful quotes with others.
+
